@@ -20,17 +20,17 @@ body{
 }
 .carousel-image-1{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), 
-    url('./Images/hero-image.jpg');
+    url('https://www10.lunapic.com/do-not-link-here-use-hosting-instead/164217606617694775?5233918346');
     background-size: cover;
 }
 .carousel-image-2{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('./Images/image9.jpg');
+     url('https://www10.lunapic.com/do-not-link-here-use-hosting-instead/164217606617694775?6337178058');
     background-size: cover;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('./Images/image1.jpg');
+     url('https://www10.lunapic.com/do-not-link-here-use-hosting-instead/164217606617694775?2478940742');
     background-size: cover;
 }
 .h-color{
