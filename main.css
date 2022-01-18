@@ -12,7 +12,7 @@ body{
     outline: none !important;
 }
 .bg-black{
-    background: #000;
+  background: rgb(253, 88, 88);
 }
 /*=========Slider Section ============*/
 .carousel-item{
@@ -20,17 +20,17 @@ body{
 }
 .carousel-image-1{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), 
-    url('https://www10.lunapic.com/do-not-link-here-use-hosting-instead/164217606617694775?5233918346');
+    url('thumbnail_Image\ \(2\).jpg'); ;
     background-size: cover;
 }
 .carousel-image-2{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('https://www10.lunapic.com/do-not-link-here-use-hosting-instead/164217606617694775?6337178058');
+     url('harsh_chip.jpg');
     background-size: cover;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('https://www10.lunapic.com/do-not-link-here-use-hosting-instead/164217606617694775?2478940742');
+     url('thumbnail_Image\ \(1\).jpg');
     background-size: cover;
 }
 .h-color{
@@ -38,7 +38,7 @@ body{
 
 }
 .btn-color{
-    background: #000;
+  background: rgb(253, 88, 88);
     color: #fff;
 }
 .btn-color:hover{
@@ -110,13 +110,15 @@ body{
       display: inline-block;
       font-size: 32px;
       margin-bottom: 16px;
-      color: #000;
+      color: rgb(253, 88, 88);
+
       padding: 8px 16px;
   }
   /*======End of Service Section====*/
   /*=======Products section=======*/
   #products{
-    background:#000;
+    background: rgb(253, 88, 88);
+
   }
   .product-title{
     color: #fff;
@@ -222,7 +224,7 @@ body{
 }
 /*Best Seller== */
 .seller{
-  background: #000;
+  background: rgb(253, 88, 88);
   color: #fff;
   margin-top: 30px;
 }
@@ -261,7 +263,7 @@ body{
 /* End of Best Seller==*/
 /*Contact us */
 .btn-color{
-  background: #000;
+  background: rgb(253, 88, 88);
   color: #fff;
 }
 
@@ -327,7 +329,7 @@ body{
 }
 /*==Footer===*/
 .footer{
-  background: #000;
+  background: rgb(253, 88, 88);
   color: #fff;
 }
 .fab{
